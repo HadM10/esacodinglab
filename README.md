@@ -4,7 +4,7 @@
 3- git add .
 4- git commit -m "adding new file"
 5- git status
-6- git checkout -b "new_branch" (git branch "new_branch" - git checkout new_branch)
+6- git checkout -b "new_branch" or (git branch "new_branch" - git checkout new_branch)
 7- git branch
 8- git push
 
