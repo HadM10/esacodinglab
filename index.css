@@ -1,0 +1,14 @@
+table,tr,th,td{
+    border: 1px solid black;
+}
+table{
+    margin-top: 50px;
+    text-align: center;
+}
+th{
+    background-color: yellow;
+    color: red;
+}
+td{
+    background-color: lightgreen;
+}
